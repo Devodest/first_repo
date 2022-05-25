@@ -90,8 +90,7 @@
 > 1 уровень
 >> 2 уровень
 >>> 3 уровень
-
 ## Заключение
 
-## Web Links
-Text [Link example](https://google.com "Alt text")
+## Web ссылки
+Текст [Пример ссылки](https://google.com "Всплывающая подсказка")
