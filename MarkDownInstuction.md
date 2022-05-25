@@ -90,6 +90,28 @@
 
 ## Работа с таблицами
 
+Letter | Digit | Character
+------ | ------|----------
+a      | 4     | $
+x      | 365    | (
+b      |       | ^  
+
+Letter|Digit|Character
+---|---|---
+a|4|$
+ |365|(
+b| |^  
+
+Column | Column
+------ | ------
+\| Cell \|| \| Cell \|  
+
+
+Column | Column | Column
+:----- | :----: | -----:
+Left   | Center | Right
+align  | align  | align
+
 ## Цитаты
 > 1 уровень
 >> 2 уровень
